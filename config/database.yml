@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: FunFort_Development
+  pool: 5
+  username: rails
+  password: jordan
